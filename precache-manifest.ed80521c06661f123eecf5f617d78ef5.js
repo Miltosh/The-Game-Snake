@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a20d34bff3323207e360fcf71c074467",
+    "revision": "4b33696d1c449d6e05682906e1c6169d",
     "url": "/The-Game-Snake/index.html"
   },
   {
-    "revision": "e5ce9920549a0d59a6f4",
-    "url": "/The-Game-Snake/static/css/main.fcab5179.chunk.css"
+    "revision": "22dece102ff3b01e7467",
+    "url": "/The-Game-Snake/static/css/main.92562818.chunk.css"
   },
   {
     "revision": "a929baf86d361d3a7deb",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/The-Game-Snake/static/js/2.1f96dfe0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e5ce9920549a0d59a6f4",
-    "url": "/The-Game-Snake/static/js/main.69c18812.chunk.js"
+    "revision": "22dece102ff3b01e7467",
+    "url": "/The-Game-Snake/static/js/main.f98ff2b9.chunk.js"
   },
   {
     "revision": "88f6f4bc52dc096c4464",
